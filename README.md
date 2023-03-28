@@ -1,6 +1,6 @@
-# combining_widget
+## ExpenseTrackerX 
 
-A new Flutter project.
+A Flutter App with which you can track your daily expenditures. It shows a Real-Time Weekly Bar Graph of the tracked Expenditures. You can also delete an added expenditure.
 
 ## Getting Started
 
